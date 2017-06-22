@@ -19,13 +19,15 @@
 ***
 ## 4. Run the Application ##
 python packetSniffer.py
-  
-## 5. Acknowledgements ##
-* [Rahul](https://github.com/rahulr56)
-
-## 6. References ##
+ 
+***
+## 5. References ##
 1. [Etheret Header](http://networksorcery.com/enp/protocol/ethernet.htm)
 2. [IP Header](https://tools.ietf.org/html/rfc791#section-3.1) 
 3. [TCP Header](https://tools.ietf.org/html/rfc793#section-3.1)
 4. [UDP Header](https://www.ietf.org/rfc/rfc768.txt)
 5. [Cybrary](https://www.cybrary.it/)
+
+***
+## 6. Acknowledgements ##
+* [Rahul](https://github.com/rahulr56)
