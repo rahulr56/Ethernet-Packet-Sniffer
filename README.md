@@ -27,6 +27,9 @@ python packetSniffer.py
 3. [TCP Header](https://tools.ietf.org/html/rfc793#section-3.1)
 4. [UDP Header](https://www.ietf.org/rfc/rfc768.txt)
 5. [Cybrary](https://www.cybrary.it/)
+6. [Python Struct Module](https://docs.python.org/2/library/struct.html)
+7. [Python Socket Module](https://docs.python.org/2/library/socket.html?highlight=socket#module-socket)  
+8. [Python binascii Module](https://docs.python.org/2/library/binascii.html?highlight=binascii#module-binascii)
 
 ***
 ## 6. Acknowledgements ##
